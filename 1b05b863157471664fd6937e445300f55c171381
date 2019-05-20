@@ -1,0 +1,1 @@
+{"jobID":"11f74f1f-45f3-43db-537d-4f1c45d83b29","spec":{"type":"policy","cause":{"Message":"","User":"Marco Mancuso \u003cmarco.mancuso@anaplan.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
