@@ -14,7 +14,7 @@ spec:
       - backend:
           serviceName: podinfo
           servicePort: 3000
-        path: /podinfo
+        path: /metrics
     host: training-user-38.training.weave.works
 status:
   loadBalancer: {}
