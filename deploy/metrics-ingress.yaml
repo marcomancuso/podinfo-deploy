@@ -13,7 +13,8 @@ spec:
       paths:
       - backend:
           serviceName: podinfo
-          servicePort: 9898
+          servicePort: 3000
         path: /podinfo
+    host: training-user-38.training.weave.works
 status:
   loadBalancer: {}
